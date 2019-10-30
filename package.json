@@ -1,0 +1,27 @@
+{
+  "name": "bitzprice",
+  "version": "1.0.0",
+  "description": "NEXTJS tutorial from Traversy Media",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanidiaz/bitzprice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanidiaz/bitzprice/issues"
+  },
+  "homepage": "https://github.com/juanidiaz/bitzprice#readme",
+  "dependencies": {
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
